@@ -40,3 +40,32 @@ Total blocking time: 2540
 Largest contentful paint: 15537
 Cumulative layout shift: 0.339
 Total blocking time: 200 ms
+
+
+## After Web Page Test Scores
+
+### Mobile
+
+#### Vercel
+
+Largest contentful paint:  12436ms
+Cumulative layout shift: 0.04
+Total blocking time: 2532
+
+### Mobile
+
+#### Netifly
+
+Largest contentful paint:  12456ms
+Cumulative layout shift: 0.04
+Total blocking time: 1835
+
+
+### Mobile
+
+#### Github
+
+### Desktop
+
+#### Github
+
