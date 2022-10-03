@@ -69,3 +69,35 @@ Total blocking time: 1835
 
 #### Github
 
+
+
+New Image Added 
+
+### Mobile
+
+#### Netlify
+
+Largest contentful paint: 15732
+Cumulative layout shift: 0.046
+Total blocking time: 2845
+
+
+New Image Added (Optimised)
+
+### Mobile
+
+#### Netlify
+
+Largest contentful paint: 2960
+Cumulative layout shift: 0.046
+Total blocking time: 2845
+
+Fetch priority uded
+
+### Mobile
+
+#### Netlify
+
+Largest contentful paint: 2140 
+Cumulative layout shift: 0.045
+Total blocking time: 2351
